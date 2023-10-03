@@ -1,0 +1,17 @@
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>aws.athena-samples</groupId>
+  <artifactId>java-udf-demo</artifactId>
+  <version>1.0</version>
+  <properties>
+    <maven.compiler.source>1.8</maven.compiler.source>
+    <maven.compiler.target>1.8</maven.compiler.target>
+  </properties>
+  <dependencies>
+    <dependency><!-- Hive dependency -->
+      <groupId>org.apache.hive</groupId>
+      <artifactId>hive-exec</artifactId>
+      <version>3.1.3</version>
+    </dependency>
+  </dependencies>
+</project>
