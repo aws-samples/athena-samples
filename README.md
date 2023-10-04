@@ -1,6 +1,9 @@
 ## Athena Samples
 
-This repository contains example code to demonstrate Athena features.
+This repository contains example code to demonstrate [Amazon Athena](https://aws.amazon.com/athena/) features.
+
+## User Defined Functions
+Example user defined functions for using with Athena Spark are located [here](https://github.com/aws-samples/athena-samples/tree/main/examples/spark-udfs).
 
 ## Security
 
